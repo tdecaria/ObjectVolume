@@ -6,7 +6,7 @@ The ObjectVolume calculator is program written as a standalone java application 
 The ObjectVolume.zip file contains: 
 
   Program Executable and Samples directory - 
-    ObjectVolume.class Four sample .obj files (cup.obj, sphere2.obj, etc.)
+    ObjectVolume.class and four sample .obj files (cup.obj, sphere2.obj, etc.)
   
   Java source code - 
       The four programs used to perform the calculations. Each program is the same except for the calc method. Each calc method uses a different set of equations to determine the volume of a tetrahedron. It turns out that all four produced similar results and run times. Method 2 was used to generate the ObjectVolume.class file above.
