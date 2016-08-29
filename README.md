@@ -1,7 +1,7 @@
 # ObjectVolume
 Calculates Volume, Surface Area and Centroid of a Closed Triangular Mesh
 
-The ObjectVolume calculator is program written as a standalone java application and is executed at the command line in either Windows or Linux or other supported Java environment. The ObjectVolume Tutorial document gives a detailed account of the approach used to determine the volume of a closed triangular mesh represented in an object file (.obj).
+The ObjectVolume calculator is program written as a standalone java application and is executed at the command line in either Windows, Linux or other supported Java environment. The ObjectVolume Tutorial document gives a detailed account of the approach used to determine the volume of a closed triangular mesh represented in an object file (.obj).
 
 The ObjectVolume.zip file contains: 
 
