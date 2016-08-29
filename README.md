@@ -5,7 +5,7 @@ The ObjectVolume calculator is program written as a standalone java application 
 
 The ObjectVolume.zip file contains: 
 
-  Program Executables and Samples directory - 
+  Program Executable and Samples directory - 
     ObjectVolume.class Four sample .obj files (cup.obj, sphere2.obj, etc.)
   
   Java source code - 
