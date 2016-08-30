@@ -15,3 +15,5 @@ The ObjectVolume.zip file contains:
     Contains the project background and theory, a detailed program description, notes and execution results.
   
 Copy and unzip the ObjectVolume.zip file under your home directory or anywhere you have read/write privileges. This will create a single directory named ObjectVolume which will contain the subdirectories and files described above.
+
+https://cloud.githubusercontent.com/assets/21293281/18072285/e6d648ce-6e2a-11e6-98b6-ac75aa849336.jpg
